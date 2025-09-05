@@ -13,4 +13,4 @@
   </a>
 </div>
 
-<img alig="right" alt="elle" src="https://picasion.com/" src="https://i.picasion.com/pic92/e6407ed8e39e65934d934d46bdd1fb5b.gif">
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/e6407ed8e39e65934d934d46bdd1fb5b.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
