@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://picasion.com/">
     <img src="https://i.picasion.com/pic92/e6407ed8e39e65934d934d46bdd1fb5b.gif" width="300" height="300" alt="gif animado" />
   </a>
